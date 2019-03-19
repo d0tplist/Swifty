@@ -7,10 +7,7 @@ import com.swifty.util.LOGGER;
 import com.swifty.validation.ARGUMENT_ERRORS;
 import org.apache.commons.io.IOUtils;
 
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.OutputStream;
+import java.io.*;
 import java.nio.file.Paths;
 
 public class Compiler {
@@ -30,8 +27,13 @@ public class Compiler {
             return;
         }
         File swiftFile = new File(args[0]);
+
+        if (!swiftFile.exists()) {
+            throw new FileNotFoundException("the file must exist");
+        }
+
         String fileAbsolutePath = swiftFile.getAbsolutePath();
-        LOGGER.info("Trying to parse '{}'.", swiftFile.getAbsolutePath());
+        LOGGER.info("Trying to parse file:", swiftFile.getAbsolutePath());
         CompilationUnit compilationUnit = new Parser().getCompilationUnit(fileAbsolutePath);
         LOGGER.info("Finished Parsing. Started compiling to bytecodegeneration.");
         saveBytecodeToClassFile(compilationUnit);
@@ -53,9 +55,9 @@ public class Compiler {
         byte[] bytecode = bytecodeGenerator.generate(compilationUnit);
         String className = compilationUnit.getClassName();
         String fileName = className + ".class";
-        LOGGER.info("Finished Compiling. Saving bytecodegeneration to '{}'.", Paths.get(fileName).toAbsolutePath());
+        LOGGER.info("Finished Compiling. Saving bytecodegeneration to ", Paths.get(fileName).toAbsolutePath());
         OutputStream os = new FileOutputStream(fileName);
         IOUtils.write(bytecode, os);
-        LOGGER.info("Done. To run compiled file execute: 'java {}' in current dir",className);
+        LOGGER.info("Done. To run compiled file execute: 'java " +className+"' in current dir");
     }
 }

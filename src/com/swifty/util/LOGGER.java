@@ -9,14 +9,14 @@ public class LOGGER {
     }
 
     public static void info(String s, String absolutePath) {
-
+        System.out.println(s + " " + absolutePath);
     }
 
     public static void info(String s) {
-
+        System.out.println(s);
     }
 
     public static void error(String errorMsg) {
-
+        System.err.println(errorMsg);
     }
 }

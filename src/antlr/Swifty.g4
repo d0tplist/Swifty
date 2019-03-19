@@ -3,7 +3,7 @@ grammar Swifty;
 
 //RULES
 compilationUnit : classDeclaration EOF ;
-classDeclaration : className '{' classBody '}' ;
+classDeclaration : ('class')? className '{' classBody '}' ;
 className : qualifiedName ;
 classBody :  field* function* ;
 field : type name;

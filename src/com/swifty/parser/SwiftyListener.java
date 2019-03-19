@@ -1,4 +1,4 @@
-// Generated from /Users/alex/IdeaProjects/swifty/src/antlr/Swifty.g4 by ANTLR 4.7.2
+// Generated from /Users/alex/Developer/Swifty/src/antlr/Swifty.g4 by ANTLR 4.7.2
 package com.swifty.parser;
 import org.antlr.v4.runtime.tree.ParseTreeListener;
 
