@@ -6,88 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2ad44-54b6-4035-a2f2-1817854d9e75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Swifty_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/annotations_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ANTLRConfig.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/ForStatement.swift" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ForStatement.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifstatements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/swifty_jar/swifty.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/swifty_jar/swifty.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/antlr/Swifty.g4" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/antlr/Swifty.g4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/Compiler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/Compiler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/bytecodegeneration/BytecodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/bytecodegeneration/BytecodeGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/Swifty.interp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/Swifty.interp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/Swifty.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/Swifty.tokens" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.interp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.interp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.tokens" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$AddContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$AddContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ArgumentContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ArgumentContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ArgumentListContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ArgumentListContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$AssignmentContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$AssignmentContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$BlockContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$BlockContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassBodyContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassBodyContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassDeclarationContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassDeclarationContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassNameContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassNameContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassTypeContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassTypeContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$CompilationUnitContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$CompilationUnitContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ConditionalExpressionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ConditionalExpressionContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ConstructorCallContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ConstructorCallContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$DivideContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$DivideContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ExpressionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ExpressionContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FieldContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FieldContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ForConditionsContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ForConditionsContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ForStatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ForStatementContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionCallContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionCallContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionDeclarationContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionDeclarationContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionNameContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionNameContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$IfStatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$IfStatementContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$MultiplyContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$MultiplyContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NameContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NameContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NamedArgumentContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NamedArgumentContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NamedArgumentsListContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NamedArgumentsListContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParameterContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParameterContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParameterWithDefaultValueContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParameterWithDefaultValueContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParametersListContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParametersListContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$PrimitiveTypeContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$PrimitiveTypeContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$PrintStatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$PrintStatementContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$QualifiedNameContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$QualifiedNameContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnStatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnStatementContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnVoidContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnVoidContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnWithValueContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnWithValueContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$StatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$StatementContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$SubstractContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$SubstractContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$SupercallContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$SupercallContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$TypeContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$TypeContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$UnnamedArgumentsListContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$UnnamedArgumentsListContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ValueContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ValueContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ValueExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ValueExprContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VarReferenceContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VarReferenceContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VariableDeclarationContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VariableDeclarationContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VariableReferenceContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VariableReferenceContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parsing/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parsing/Parser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/util/LOGGER.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/util/LOGGER.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/antlr/Swifty.g4" beforeDir="false" afterPath="$PROJECT_DIR$/src/antlr/Swifty.g4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/Compiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/Compiler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/bytecodegeneration/BytecodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/bytecodegeneration/BytecodeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/Swifty.interp" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/Swifty.interp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/Swifty.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/Swifty.tokens" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyBaseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyBaseListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyBaseVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyBaseVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.interp" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.interp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.tokens" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/parsing/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parsing/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/swifty/util/LOGGER.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/util/LOGGER.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5f2ad44-54b6-4035-a2f2-1817854d9e75" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +187,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="swifty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552956603317" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552956604268" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -312,12 +231,12 @@
       <updated>1552953464254</updated>
       <workItem from="1552953467421" duration="1001000" />
       <workItem from="1552954502275" duration="37000" />
-      <workItem from="1552954545718" duration="2052000" />
+      <workItem from="1552954545718" duration="2368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3090000" />
+    <option name="totallyTimeSpent" value="3406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2348" height="1374" extended-state="0" />
