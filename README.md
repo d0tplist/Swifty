@@ -10,6 +10,7 @@ on the JVM, and yeah Kotlin looks very similar to Swift but is not the same.
 
 So I hope to learn more and more of Swift at the same time I master java.
 
+Java 8 is needed, java 11+ not supported at the moment.
 
 Usage:
 
@@ -48,6 +49,12 @@ And this must be the result!
 9
 10
 ```
+
+If you want to build the proyect, it's made using IntelliJ Java 8u181, dependencies are in the lib folder.
+And you would need to config the Swifty.g4 (ANTLR4)
+
+![alt text](https://github.com/d0tplist/Swifty/blob/master/ANTLRConfig.png)
+
 
 Actually I don't know if I'll add support to Structs (it's not hard really just a copy constructor)
 
