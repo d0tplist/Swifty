@@ -8,7 +8,7 @@ className : qualifiedName ;
 classBody :  field* function* ;
 field : type name;
 function : functionDeclaration block ;
-functionDeclaration : (type)? functionName '('? parametersList? ')'? ;
+functionDeclaration : 'func' functionName '('? parametersList? ')'? ('->' type)?;
 parametersList:  parameter (',' parameter)*
           |  parameter (',' parameterWithDefaultValue)*
           |  parameterWithDefaultValue (',' parameterWithDefaultValue)* ;

@@ -6,7 +6,66 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2ad44-54b6-4035-a2f2-1817854d9e75" name="Default Changelist" comment="" />
+    <list default="true" id="c5f2ad44-54b6-4035-a2f2-1817854d9e75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/swifty_jar/swifty.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/swifty_jar/swifty.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/antlr/Swifty.g4" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/antlr/Swifty.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/Swifty.interp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/Swifty.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/Swifty.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/Swifty.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.interp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyLexer.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$AddContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$AddContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ArgumentContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ArgumentContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ArgumentListContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ArgumentListContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$AssignmentContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$AssignmentContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$BlockContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$BlockContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassTypeContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ClassTypeContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ConditionalExpressionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ConditionalExpressionContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ConstructorCallContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ConstructorCallContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$DivideContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$DivideContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ExpressionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ExpressionContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FieldContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FieldContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ForConditionsContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ForConditionsContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ForStatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ForStatementContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionCallContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionCallContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionDeclarationContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionDeclarationContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionNameContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$FunctionNameContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$IfStatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$IfStatementContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$MultiplyContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$MultiplyContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NameContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NameContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NamedArgumentContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NamedArgumentContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NamedArgumentsListContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$NamedArgumentsListContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParameterContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParameterContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParameterWithDefaultValueContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParameterWithDefaultValueContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParametersListContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ParametersListContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$PrimitiveTypeContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$PrimitiveTypeContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$PrintStatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$PrintStatementContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$QualifiedNameContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$QualifiedNameContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnStatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnStatementContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnVoidContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnVoidContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnWithValueContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ReturnWithValueContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$StatementContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$StatementContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$SubstractContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$SubstractContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$SupercallContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$SupercallContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$TypeContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$TypeContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$UnnamedArgumentsListContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$UnnamedArgumentsListContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ValueContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ValueContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ValueExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$ValueExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VarReferenceContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VarReferenceContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VariableDeclarationContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VariableDeclarationContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VariableReferenceContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser$VariableReferenceContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swifty/com/swifty/parser/SwiftyParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/antlr/Swifty.g4" beforeDir="false" afterPath="$PROJECT_DIR$/src/antlr/Swifty.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/Swifty.interp" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/Swifty.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/Swifty.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/Swifty.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.interp" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyLexer.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swifty/parser/SwiftyParser.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +73,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/swifty/bytecodegeneration/BytecodeGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,19 +132,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/swifty/parsing/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="690">
-                <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -84,8 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/antlr/Swifty.g4">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="116">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -101,9 +157,10 @@
         <option value="$PROJECT_DIR$/src/com/swifty/parsing/Parser.java" />
         <option value="$PROJECT_DIR$/src/com/swifty/bytecodegeneration/BytecodeGenerator.java" />
         <option value="$PROJECT_DIR$/src/com/swifty/util/LOGGER.java" />
-        <option value="$PROJECT_DIR$/src/antlr/Swifty.g4" />
         <option value="$PROJECT_DIR$/src/com/swifty/Compiler.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/antlr/Swifty.g4" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -120,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,6 +227,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -186,14 +243,16 @@
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="swifty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552956604268" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553057091611" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1542461" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -231,18 +290,20 @@
       <updated>1552953464254</updated>
       <workItem from="1552953467421" duration="1001000" />
       <workItem from="1552954502275" duration="37000" />
-      <workItem from="1552954545718" duration="2368000" />
+      <workItem from="1552954545718" duration="2650000" />
+      <workItem from="1553034997848" duration="493000" />
+      <workItem from="1553057107552" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3406000" />
+    <option name="totallyTimeSpent" value="4244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2348" height="1374" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2543403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25868055" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -316,12 +377,28 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/class.class">
+    <entry file="file://$PROJECT_DIR$/class.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/swifty/parser/SwiftyVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#607#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2858">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="705">
+            <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/swifty/bytecodegeneration/BytecodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -339,17 +416,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/swifty/parser/SwiftyVisitor.java">
+    <entry file="file://$PROJECT_DIR$/src/com/swifty/Compiler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2858">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/swifty/bytecodegeneration/BytecodeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="720">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -360,34 +430,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/antlr/Swifty.g4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/swifty/parsing/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/swifty/Compiler.java">
+    <entry file="file://$PROJECT_DIR$/src/antlr/Swifty.g4">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="116">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="690">
-            <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
